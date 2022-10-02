@@ -1,0 +1,374 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+
+/* Header Section */
+
+
+.col{
+    width: 50%;
+    margin: auto;
+}
+
+.col h1{
+    font-size: 50px;
+    margin-left: 40px;
+}
+
+.col h1 span{
+    color: #ffb204;
+}
+
+.col p{
+    margin-left: 40px;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.col button{
+    margin-left: 40px;
+    margin-top: 25px;
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.p-2{}
+
+.col img{
+    width: 350px;
+   
+    margin: 100px;
+}
+
+
+
+/* Mission Section */
+
+
+
+.h1{
+    width: 100%;
+    text-align: center;
+    
+}
+
+.h1 h1{font-weight: 800;font-size: 40px;}
+
+.h1 h1 span{
+    color: #ffb204;
+}
+
+.picture{
+    display: flex;
+   
+    padding: 10px;
+}
+
+.picture1{
+    border: 2px solid;
+    margin: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #b7dfef;
+}
+
+.picture1 img{
+    width: 150px;
+}
+
+.picture1 h1{
+    padding-left: 15px;
+    paddding-top: 15px;
+}
+
+.picture1 p{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.picture2{
+    bor\2px;
+    border: 2px solid;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #fdedef;
+}
+
+.picture2 img{
+    width: 150px;
+}
+
+.picture2 h1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.picture2 p{
+    padding-left: 15px;
+    
+}
+
+.picture3{
+    border: 2px solid;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #ffecc8;
+    padding-top: 20px;
+}
+
+.picture3 img{
+    width: 150px;
+   
+}
+
+.picture3 h1{
+    padding-left: 15px;
+}
+
+.picture3 p{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+/* Develop Section */
+
+.develop{}
+
+.shape1{
+}
+
+.shape1 img{
+    height: 150px;
+    margin-top: 90px;
+    margin-left: 40px;
+    padding-top: 10px;
+}
+
+.coding{
+    margin-top: -180px;
+    padding-left: 25px;
+}
+
+.coding img{width: 1100px;}
+
+
+.coding-data{
+    margin-top: -110px;
+    margin-left: 20px;
+}
+
+.coding-data h1{font-size: 50px;}
+
+
+.coding-data p{}
+
+.coding-data button{
+    
+padding: 10px;
+    
+margin-top: 10px;
+    
+background-color: #f51616;
+    
+color: white;
+    
+border-radius: 5px;
+    
+border: none;
+}
+
+
+
+/* Community Section */
+
+
+.community{
+    margin-top: 130px;
+}
+
+.community-data{
+    margin-top: 100px;
+}
+
+.community-data h1{
+    font-size: 50px;
+}
+
+.community-data p{}
+
+.community-data button{
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    background-color: #ef1414;
+    color: white;
+    border-radius: 5px;
+}
+
+.project{}
+
+.project img{
+    width: 900px;
+}
+
+.shape2{}
+
+.shape2 img{
+    height: 150px;
+    float: right;
+    margin-top: -110px;
+    margin-right: 30px;
+}
+
+/* Application Section */
+
+.app-box{
+    margin-top: -800px;
+}
+
+
+.h2{
+    width: 100%;
+    text-align: center;
+}
+
+.h2 h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.h2 h1 span{
+    color: #fca703;
+}
+
+
+.app{margin-top: 120px;width: 50%;/* align-items: flex-end; */}
+
+.app img{height: 400px;width: 300px;}
+
+.app-data{
+    margin-top: 165px;
+    width: 50%;
+}
+
+.app-data h1{
+    font-size: 50px;
+}
+
+.app-data h1 span{
+    color: #f99d02;
+}
+
+.app-data p{
+    line-height: 1.5;
+    margin-top: 5px;
+}
+
+.app-data button{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #e91212;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+/* Application Section */
+
+.apply{
+    margin-bottom: 125px;
+}
+
+
+.shape{
+    margin-top: 50px;
+}
+
+
+.shape3{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.shape3 img{
+    width: 120px;
+}
+
+.shape3-1{
+    margin-left: 300px;
+    height: 300px;
+    margin-top: 1;
+    margin-top: 160px;
+}
+
+.shape3-1 img{
+    width: 70px;
+}
+
+.shape3-2{
+    margin-left: 50px;
+    
+    margin-top: -240px;
+}
+
+.shape3-2 img{
+    width: 80px;
+   
+}
+
+
+
+/* Footer Section */
+.footer{
+    width: 100%;
+}
+
+
+.foot{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    background-color: #020b20;
+}
+
+.foot h2{
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.foot h2 span{
+    color: #e32647;
+}
+
+.foot p{
+    color: white;
+    padding-top: 5px;
+}
+
+
